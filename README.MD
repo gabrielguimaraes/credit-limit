@@ -38,6 +38,8 @@ To check the data inserted into the H2-database you just need to access it on br
     ``` bash
     java -jar target\limite-credito-0.0.1-SNAPSHOT.jar
     ```
-1. Done! Just access on your local browser the address: http://localhost:8080/ as test-it.
+1. Done! Just access on your local browser the address: http://localhost:8080/ and test-it.
+
+Thank you for reading! =D
 
 
