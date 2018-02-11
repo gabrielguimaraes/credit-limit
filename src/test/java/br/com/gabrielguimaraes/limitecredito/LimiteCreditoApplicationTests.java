@@ -1,4 +1,4 @@
-package br.com.gabrielguimaraes.limitecredito.limitecredito;
+package br.com.gabrielguimaraes.limitecredito;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
