@@ -36,8 +36,14 @@ To check the data inserted into the H2-database you just need to access it on br
     ```
 1. After running the maven package command, the folder *target/* will be created. Now it is possible to run the application just executing the *java -jar* command as stated below
     ``` bash
+    #LINUX
     java -jar target\limite-credito-0.0.1-SNAPSHOT.jar
     ```
+    ``` bash
+    #WINDOWS
+    java -jar target/limite-credito-0.0.1-SNAPSHOT.jar
+    ```
+
 1. Done! Just access on your local browser the address: http://localhost:8080/ and test-it.
 
 Thank you for reading! =D
